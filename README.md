@@ -25,7 +25,7 @@
 </br>
 ## Contact 
 <div> 
-  <a href="https://t.me/Fazl2104" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  
+  <a href="https://t.me/Fazl2104" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"  
   target='_blank'></a>
  </br>
 </br>

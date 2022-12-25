@@ -6,7 +6,12 @@
    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazliddin-Nasrullayev&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Fazliddin-Nasrullayev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/Hv3l9YXUBbo?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Hv3l9YXUBbo/embed" width="640" height="360"></iframe>
+        </div>
  ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

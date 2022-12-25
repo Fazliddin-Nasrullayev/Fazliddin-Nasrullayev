@@ -7,10 +7,9 @@
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Fazliddin-Nasrullayev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
-<div style="position:relative;width:fit-content;height:fit-content;">
-  <video width="320" height="240" controls>
-  <source src="https://clipchamp.com/watch/Hv3l9YXUBbo/embed" type="video/mp4">
-</video>    
+  <div style="position:relative;width:fit-content;height:fit-content;">
+      <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Hv3l9YXUBbo/embed"
+          width="640" height="360"></iframe>
   </div>
  ## Skills
 <div style="display: inline_block"><br>

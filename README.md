@@ -11,6 +11,9 @@
       <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/Hv3l9YXUBbo/embed"
           width="640" height="360"></iframe>
   </div> -->
+
+  </br>
+  </br>
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -24,7 +27,7 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
     </td>
@@ -57,7 +60,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
-    </td> -->
+    </td>
   </tr>
  <tr>
         <td align="center" width="96">

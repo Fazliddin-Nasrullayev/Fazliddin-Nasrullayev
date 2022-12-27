@@ -15,7 +15,6 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <table>
-</div>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -71,6 +70,7 @@
     </td>
  </tr>
 </table>
+</div>
   
 </br>
 

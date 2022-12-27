@@ -32,6 +32,7 @@
       <br>Rest
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -45,11 +46,13 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+    </tr>
+    <tr>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-   <!-- <td align="center"  width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
@@ -57,12 +60,12 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+    </tr>
+ <tr>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>redis
-    </td> -->
-  </tr>
- <tr>
+    </td>
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
